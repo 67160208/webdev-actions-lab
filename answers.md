@@ -1,6 +1,3 @@
-# เฉลยแนวทางตอบ: Exercise 4 และคำถามท้ายแลป
-(ปรับสำนวนเป็นภาษาของตัวเองก่อนส่ง)
-
 ## Exercise 4: Workflow เริ่มเมื่อใด และ Job deploy ทำอะไร
 Workflow เริ่มทำงานเมื่อมีการ push ขึ้น branch main หรือเมื่อกดรันเองจากแท็บ Actions (workflow_dispatch)
 Job `deploy` รันบนเครื่อง ubuntu-latest โดย
